@@ -4,6 +4,18 @@
 
 ### Category Name 1 
 
+[Gredient for iOS](https://www.gredient-app.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[A Comparison of Efficacies of Altruistic & Egocentric Incentives](/pdf/comparison_of_motivational_incentives_online.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[BERT For Summarization: Sentiment Analysis for Identifying Gender Bias](https://github.com/ikchau/BERT-Gender-Bias)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
