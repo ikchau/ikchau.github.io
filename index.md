@@ -3,7 +3,7 @@
 ---
 
 [Gredient for iOS](https://www.gredient-app.com/)
-<img src="gredient-faster-gif-thumbnail-480-optimized-2.gif?raw=true"/>
+<img src="images/gredient-faster-gif-thumbnail-480-optimized-2.gif?raw=true"/>
 
 ---
 [A Comparison of Efficacies of Altruistic & Egocentric Incentives](/pdf/comparison_of_motivational_incentives_online.pdf)
