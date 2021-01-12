@@ -4,7 +4,7 @@
 
 ### Gredient for iOS
 - Award-winning machine vision app to help consumers avoid allergens when shopping
-- [Link to project website)](https://www.gredient-app.com/)
+- [Link to project website](https://www.gredient-app.com/)
 - [Link to project code](https://github.com/jjsahabu/Gredient)
 <img src="images/gredient-faster-gif-thumbnail-480-optimized-2.gif?raw=true"/>
 
