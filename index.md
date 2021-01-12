@@ -16,7 +16,7 @@
 
 ---
 ### BERT For Summarization: Sentiment Analysis for Identifying Gender Bias
-- Examining a BERT-powered summarization model for gender bias using a lightweight word-choice approach
+- Examination of a BERT-powered summarization model for gender bias using a lightweight word-choice approach
 - [Link to report](/pdf/W266_final_paper_isaac_chau_alex_kim.pdf)
 - [Link to project Github](https://github.com/ikchau/BERT-Gender-Bias)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
