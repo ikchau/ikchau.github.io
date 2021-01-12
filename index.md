@@ -1,8 +1,6 @@
-## Portfolio
+## Projects
 
 ---
-
-### Category Name 1 
 
 [Gredient for iOS](https://www.gredient-app.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
