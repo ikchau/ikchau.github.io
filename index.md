@@ -12,7 +12,7 @@
 ### A Comparison of Efficacies of Altruistic & Egocentric Incentives
 - A study of online user behavior in response to different types of rewards
 - [Link to report](/pdf/comparison_of_motivational_incentives_online.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Facebook-study-thumbnail-white.png?raw=true"/>
 
 ---
 ### BERT For Summarization: Sentiment Analysis for Identifying Gender Bias
