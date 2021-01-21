@@ -5,10 +5,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   In my spare time I coach Olympic weightlifting and make pizza (not simultaneously). I am a proud East Bay resident since 2014.
   <br><br><br>
-  <a href="https://www.linkedin.com/in/isa-chau/">View My LinkedIn Profile</a> 
-  
+   
   <a href='https://www.linkedin.com/in/isa-chau'>
-  <img src="images/LinkedIn-Logos/LinkedIn-Logos/LI-Logo.png?raw=true" width="30" height="30">
+  <img src="images/LinkedIn-Logos/LinkedIn-Logos/LI-Logo.png?raw=true" height="30">
   </a>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
