@@ -17,7 +17,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <a href="{{ site.github.owner_url }}"><img src="images/GitHub_Logo.png?raw=true" height="30"></a></p>
   <br><br>
-  <small><br>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
+  <small><br>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist<br><br></a></small>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
