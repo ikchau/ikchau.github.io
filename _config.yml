@@ -15,7 +15,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href='https://www.linkedin.com/in/isa-chau'><img src="images/LinkedIn-Logos/LinkedIn-Logos/LI-Logo.png?raw=true" height="25">
   </a>
   
-  <a href="{{ site.github.owner_url }}"><img src="images/GitHub_Logo.png?raw=true" height="30"></a></p>
+  <a href="https://github.com/ikchau"><img src="images/GitHub_Logo.png?raw=true" height="30"></a></p>
   <br><br>
   <small><br>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist<br><br></a></small>
   
