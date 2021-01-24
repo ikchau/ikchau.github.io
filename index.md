@@ -22,17 +22,17 @@
 <img src="images/BERT-study-thumbnail-white-720.png?raw=true"/>
 
 ---
-### Project: Poisonous Mushrooms - Dimensionality Reduction, Clustering, and Classification
+### Poisonous Mushrooms - Dimensionality Reduction, Clustering, and Classification
 *Experimenting with PCA, data visualization, and clustering in the pursuit of classifying poisonous mushrooms*
 - [Link to project notebook](https://github.com/ikchau/PCA-clustering-and-classification/blob/main/w207_portfolio_p3_PCA_clustering_and_classification.ipynb)
 
 ---
-### Project: Image Recognition, Digit Classification with KNN and Naive Bayes
+### Image Recognition, Digit Classification with KNN and Naive Bayes
 *Trying out KNN and Naive Bayes models for classifying digits*
 - [Link to project notebook](https://github.com/ikchau/digit-classification/blob/main/w207_portfolio_p1_digit_classification.ipynb)
 
 ---
-#### Project: Topic Classification with Logistic Regression
+#### Topic Classification with Logistic Regression
 *Implementing logistic regression models to classify text passages by topic*
 - [Link to project notebook](https://github.com/ikchau/topic-classification/blob/main/w207_portfolio_p2_topic_classification.ipynb)
 
