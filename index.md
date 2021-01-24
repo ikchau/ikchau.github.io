@@ -32,7 +32,7 @@
 - [Link to project notebook](https://github.com/ikchau/digit-classification/blob/main/w207_portfolio_p1_digit_classification.ipynb)
 
 ---
-#### Project: Topic Classification
+### Project: Topic Classification
 *Implementing logistic regression models to classify text passages by topic*
 - [Link to project notebook](https://github.com/ikchau/topic-classification/blob/main/w207_portfolio_p2_topic_classification.ipynb)
 
