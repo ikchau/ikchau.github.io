@@ -32,7 +32,7 @@
 *Experimenting with PCA, data visualization, and clustering in the pursuit of classifying poisonous mushrooms*
 - [Link to project notebook](https://github.com/ikchau/PCA-clustering-and-classification/blob/main/w207_portfolio_p3_PCA_clustering_and_classification.ipynb)
 <a href="https://github.com/ikchau/PCA-clustering-and-classification/blob/main/w207_portfolio_p3_PCA_clustering_and_classification.ipynb">
-  <img src="images/w207-p3-mushrooms-720.png?raw=true"/ alt="Poisonous mushrooms notebook thumbnail" title="Visit the Poisonous Mushrooms notebook :)">
+  <img src="images/w207-p3-mushrooms-720.png?raw=true" alt="Poisonous mushrooms notebook thumbnail" title="Visit the Poisonous Mushrooms notebook :)">
 </a>
 
 ---
@@ -48,7 +48,7 @@
 *Implementing logistic regression models to classify text passages by topic*
 - [Link to project notebook](https://github.com/ikchau/topic-classification/blob/main/w207_portfolio_p2_topic_classification.ipynb)
 <a href="https://github.com/ikchau/topic-classification/blob/main/w207_portfolio_p2_topic_classification.ipynb">
-  <img src="images/w207-p2-topic-classification.png?raw=true"/ alt="Topic classification notebook thumbnail" title="Visit the Topic Classification notebook :)">
+  <img src="images/w207-p2-topic-classification.png?raw=true" alt="Topic classification notebook thumbnail" title="Visit the Topic Classification notebook :)">
 </a>
 
 ---
