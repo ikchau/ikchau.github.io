@@ -14,7 +14,9 @@
 ### A Comparison of Efficacies of Altruistic & Egocentric Incentives
 *A/B test study of online user behavior in response to different types of rewards*
 - [Link to report](/pdf/comparison_of_motivational_incentives_online.pdf)
-<img src="images/Facebook-study-thumbnail-white-720.png?raw=true" alt="Incentives study thumbnail" title="Read the report! Linked above :)"/>
+<a href="https://github.com/ikchau/ikchau.github.io/blob/master/pdf/comparison_of_motivational_incentives_online.pdf">
+  <img src="images/Facebook-study-thumbnail-white-720.png?raw=true" alt="Incentives study thumbnail" title="Read the report! Linked above :)"/>
+</a>
 
 ---
 ### BERT For Summarization: Sentiment Analysis for Identifying Gender Bias
@@ -49,6 +51,7 @@
   <img src="images/w207-p2-topic-classification.png?raw=true"/ alt="Topic classification notebook thumbnail" title="Visit the Topic Classification notebook :)"/>
 </a>
 
+---
 ## More Projects
 *upload of project archive in progress*
 
